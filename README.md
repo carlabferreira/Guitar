@@ -3,4 +3,6 @@ Projeto de Guitarra desenvolvido por Aryane Pessoa, Carla Ferreira, João H. Mor
 
 Esta atividade contou com auxílio e avaliação final do professor Nathan Augusto Zacarias Xavier e foi apresentada em uma exposição de trabalhos, aberta ao público, no final do semestre.
 
-O arquivo, quando configurado para o hardware adequado (com o arduino e demais componentes necessários) permite que a pessoa toque notas especificas da guitarra e que quando precione todas as teclas ao mesmo tempo possa ouvir a música "Despacito" completa.
+O arquivo, quando configurado para o hardware adequado (com o arduino e demais componentes necessários) permite que a pessoa toque notas especificas da guitarra e que quando precione todas as teclas ao mesmo tempo possa ouvir o refrão da música "Despacito".
+
+O projeto de circuito eletrônico utilizado pode ser encontrado no Tinkercad por meio do link https://www.tinkercad.com/things/15QlAEAbYp4
